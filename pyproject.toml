@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vaultclient"
-version = "0.2.3"
+version = "0.2.5"
 description = ""
 authors = ["Nana Duah <gabano2005@gmail.com>"]
 
